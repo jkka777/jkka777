@@ -2,9 +2,9 @@
 
 I'm Kishore,
 
-I am an aspiring software developer, shaping my career to build robust and user friendly applications.
-👨🏽‍💻I am currently learning DSA.
-🫱🏽‍🫲🏽 Looking for an opprtunity to upskill.
+I am an aspiring software developer, shaping my career to build robust and user friendly applications...
+👨🏽‍💻I am currently learning DSA...
+🫱🏽‍🫲🏽 Looking for an opprtunity to upskill...
 
 <!--
 **jkka777/jkka777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
