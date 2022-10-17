@@ -22,7 +22,7 @@ I am an aspiring software developer, shaping my career to build robust and user 
 
 ✉️ You can reach me @ abhiram.kishore@gmail.com & +91 9440940244
 
-![LinkedIn](https://www.linkedin.com/in/kishore-j-8986bb235/ "LinkedIn") 
+[LinkedIn](https://www.linkedin.com/in/kishore-j-8986bb235/ "LinkedIn") 
 
 **Want to hear a joke?**
 
