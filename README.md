@@ -28,9 +28,9 @@ I am an aspiring software developer, shaping my career to build robust and user 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jkka777&show_icons=true)
+![Kishore's github stats](https://github-readme-stats.vercel.app/api?username=jkka777)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jkka777&theme=white-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jkka777&show_icons=true)
 
 **Skills**
 
