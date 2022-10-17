@@ -1,4 +1,6 @@
-![image](/images/gabriel-heinzer-EUzk9BIEq6M-unsplash.jpg)
+<div align="center">
+  <img src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e477zfwvht65j1ox8sy3p1f008wucnm64w7nxlpreyr&rid=giphy.gif&ct=g" width="800" height="600"/>
+</div>
 
 ![follow me!](https://img.shields.io/github/followers/jkka777.svg?style=social&label=Follow&maxAge=2592000)   ![](https://komarev.com/ghpvc/?username=jkka777)
 
@@ -34,6 +36,12 @@ I am an aspiring software developer, shaping my career to build robust and user 
 **Want to hear a joke?**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jkka777&theme=buefy&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jkka777&hide_border=false&date_format=j%20M%5B%20Y%5D)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkka777&layout=compact)
 
 **Skills**
 
