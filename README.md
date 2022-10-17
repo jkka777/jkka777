@@ -30,7 +30,7 @@ I am an aspiring software developer, shaping my career to build robust and user 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jkka777)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jkka777&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkka777&count_private=true)
 
 **Skills**
 
