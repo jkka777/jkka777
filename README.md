@@ -1,3 +1,6 @@
+![image](../jkka777/images/dev_animado.gif)
+
+
 ![follow me!](https://img.shields.io/github/followers/jkka777.svg?style=social&label=Follow&maxAge=2592000)   ![Profile views](https://gpvc.arturio.dev/jkka777)  
 
 **About Me**
