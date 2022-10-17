@@ -22,6 +22,15 @@ I am an aspiring software developer, shaping my career to build robust and user 
 
 ✉️ You can reach me @ abhiram.kishore@gmail.com & +91 9440940244
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kishore-j-8986bb235/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/hxh_kishore">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 [LinkedIn](https://www.linkedin.com/in/kishore-j-8986bb235/ "LinkedIn") 
 
 **Want to hear a joke?**
