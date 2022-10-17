@@ -28,9 +28,7 @@ I am an aspiring software developer, shaping my career to build robust and user 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jkka777)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkka777&count_private=true)
 
 **Skills**
 
