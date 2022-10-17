@@ -27,17 +27,14 @@ I am an aspiring software developer, shaping my career to build robust and user 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/hxh_kishore">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social">
   </a>
+  
 </div>
-
-[LinkedIn](https://www.linkedin.com/in/kishore-j-8986bb235/ "LinkedIn") 
 
 **Want to hear a joke?**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
 
 **Skills**
 
