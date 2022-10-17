@@ -1,4 +1,4 @@
-![image](../jkka777/images/dev_animado.gif)
+![image](/images/gabriel-heinzer-EUzk9BIEq6M-unsplash.jpg)
 
 
 ![follow me!](https://img.shields.io/github/followers/jkka777.svg?style=social&label=Follow&maxAge=2592000)   ![Profile views](https://gpvc.arturio.dev/jkka777)  
