@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e477zfwvht65j1ox8sy3p1f008wucnm64w7nxlpreyr&rid=giphy.gif&ct=g" width="800" height="600"/>
+  <img src="/images/giphy.webp" width="800" height="600"/>
 </div>
 
 ![follow me!](https://img.shields.io/github/followers/jkka777.svg?style=social&label=Follow&maxAge=2592000)   ![](https://komarev.com/ghpvc/?username=jkka777)
@@ -40,8 +40,8 @@ I am an aspiring software developer, shaping my career to build robust and user 
 <div>
   <h2>GitHub Statistics</h2>
   <div style="display:flex;">
-    <img height="600px" width="400px" src="https://github-readme-stats.vercel.app/api?username=jkka777&theme=buefy&show_icons=true" alt="stats" />
-    <img height="600px" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=jkka777&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jkka777&theme=buefy&show_icons=true" alt="stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jkka777&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="streak" />
   </div>
   <h4>Most Used Languages<h4/>
   <div>
@@ -50,7 +50,6 @@ I am an aspiring software developer, shaping my career to build robust and user 
 </div>
 
 **Skills**
-
 
 <div style="display:flex;gap:20px">
     <img style="height:60px;width:100px;" src="/images/html.webp" alt="html-logo"/>
@@ -62,7 +61,6 @@ I am an aspiring software developer, shaping my career to build robust and user 
 </div>
   
 **Tools**
-
 
 <div style="display:flex;gap:40px;">
     <img style="height:60px;width:60px;" src="/images/vs-code.webp" alt="vscode-logo"/>
