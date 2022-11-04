@@ -63,11 +63,11 @@ I am an aspiring software developer, shaping my career to build robust and user 
   
 **Tools**
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-
-
-
-
-
-
+<div style="display:flex;gap:40px;">
+    <img style="height:60px;width:60px;" src="/images/vs-code.webp" alt="vscode-logo"/>
+    <img style="height:60px;width:60px;margin-left:20px" src="/images/intellij.webp" alt="intellij-logo"/>
+    <img style="height:60px;width:170px;margin-left:20px" src="/images/spring tool.webp" alt="spring-tool-logo"/>
+    <img style="height:60px;width:150px;margin-left:20px" src="/images/netlify.webp" alt="netlify-logo"/>
+    <img style="height:60px;width:200px;margin-left:20px" src="/images/heroku.webp" alt="heroku-logo"/>
+</div>
