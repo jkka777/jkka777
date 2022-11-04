@@ -67,7 +67,7 @@ I am an aspiring software developer, shaping my career to build robust and user 
 <div style="display:flex;gap:40px;">
     <img style="height:60px;width:60px;" src="/images/vs-code.webp" alt="vscode-logo"/>
     <img style="height:60px;width:60px;margin-left:20px" src="/images/intellij.webp" alt="intellij-logo"/>
-    <img style="height:60px;width:170px;margin-left:20px" src="/images/spring tool.webp" alt="spring-tool-logo"/>
+    <img style="height:60px;width:200px;margin-left:20px" src="/images/spring tool.webp" alt="spring-tool-logo"/>
     <img style="height:60px;width:150px;margin-left:20px" src="/images/netlify.webp" alt="netlify-logo"/>
     <img style="height:60px;width:200px;margin-left:20px" src="/images/heroku.webp" alt="heroku-logo"/>
 </div>
