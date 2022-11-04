@@ -51,13 +51,13 @@ I am an aspiring software developer, shaping my career to build robust and user 
 
 **Skills**
 
-<div style="display:flex;gap:20px">
+<div>
     <img style="height:60px;width:100px;" src="/images/html.webp" alt="html-logo"/>
     <img style="height:60px;width:60px;" src="/images/css.webp" alt="css-logo"/>
     <img style="height:60px;width:60px;margin-left:20px" src="/images/javascript.webp" alt="javascript-logo"/>
-    <img style="height:60px;width:60px;margin-left:20px" src="/images/java.webp" alt="java-logo"/>
-    <img style="height:60px;width:60px;margin-left:20px" src="/images/mysql.webp" alt="mysql-logo"/>
-    <img style="height:60px;width:170px;margin-left:20px" src="/images/spring.webp" alt="spring-logo"/>
+    <img style="height:100px;width:100px;margin-left:20px" src="/images/java.webp" alt="java-logo"/>
+    <img style="height:100px;width:100px;margin-left:20px" src="/images/mysql.webp" alt="mysql-logo"/>
+    <img style="height:60px;width:200px;margin-left:20px" src="/images/spring.webp" alt="spring-logo"/>
 </div>
   
 **Tools**
