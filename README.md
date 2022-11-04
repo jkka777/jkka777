@@ -1,7 +1,8 @@
-![image](/images/gabriel-heinzer-EUzk9BIEq6M-unsplash.jpg)
+<div align="center">
+  <img src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e477zfwvht65j1ox8sy3p1f008wucnm64w7nxlpreyr&rid=giphy.gif&ct=g" width="800" height="600"/>
+</div>
 
-
-![follow me!](https://img.shields.io/github/followers/jkka777.svg?style=social&label=Follow&maxAge=2592000)   ![Profile views](https://gpvc.arturio.dev/jkka777)  
+![follow me!](https://img.shields.io/github/followers/jkka777.svg?style=social&label=Follow&maxAge=2592000)   ![](https://komarev.com/ghpvc/?username=jkka777)
 
 **About Me**
 
@@ -23,15 +24,30 @@ I am an aspiring software developer, shaping my career to build robust and user 
 
 ✉️ You can reach me @ abhiram.kishore@gmail.com & +91 9440940244
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)   ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kishore-j-8986bb235/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/hxh_kishore">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 **Want to hear a joke?**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jkka777&show_icons=true)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jkka777&theme=white-green)
+<div>
+  <h2>GitHub Statistics</h2>
+  <div style="display:flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jkka777&theme=buefy&show_icons=true" alt="stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jkka777&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="streak" />
+  </div>
+  <h4>Most Used Languages<h4/>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkka777&layout=compact" alt="most-used-languages" />
+  </div>
+</div>
 
 **Skills**
 
