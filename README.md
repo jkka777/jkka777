@@ -2,7 +2,10 @@
   <img src="/images/giphy.webp" width="800" height="600"/>
 </div>
 
-![follow me!](https://img.shields.io/github/followers/jkka777.svg?style=social&label=Follow&maxAge=2592000)   ![](https://komarev.com/ghpvc/?username=jkka777)
+<div>
+  <img src="https://img.shields.io/github/followers/jkka777.svg?style=social" alt="follow-counter"/>
+  <img src="https://komarev.com/ghpvc/?username=jkka777" alt="profile-views"/>
+</div>
 
 **About Me**
 
@@ -48,10 +51,16 @@ I am an aspiring software developer, shaping my career to build robust and user 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkka777&layout=compact" alt="most-used-languages" />
   </div>
   <div>
+    <h4>Trophies</h4>
     <img src="https://github-profile-trophy.vercel.app/?username=jkka777" alt="trophies"/>
   </div>
 </div>
 
+<div>
+  <h2>Profile Summary</h2>  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkka777&theme=vue" alt="profile-summary"/>
+</div>
+  
 **Skills**
 
 <div>
