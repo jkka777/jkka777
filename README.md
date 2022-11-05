@@ -47,6 +47,9 @@ I am an aspiring software developer, shaping my career to build robust and user 
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkka777&layout=compact" alt="most-used-languages" />
   </div>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=jkka777" alt="trophies"/>
+  </div>
 </div>
 
 **Skills**
