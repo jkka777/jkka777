@@ -61,7 +61,7 @@ I am an aspiring software developer, shaping my career to build robust and user 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkka777&theme=vue" alt="profile-summary"/>
 </div>
   
-**Skills**
+<h2>Skills</h2>
 
 <div>
     <img style="height:60px;width:100px;" src="/images/html.webp" alt="html-logo"/>
@@ -72,7 +72,7 @@ I am an aspiring software developer, shaping my career to build robust and user 
     <img style="height:60px;width:200px;margin-left:20px" src="/images/spring.webp" alt="spring-logo"/>
 </div>
   
-**Tools**
+<h2>Tools</h2>
 
 <div style="display:flex;gap:40px;">
     <img style="height:60px;width:60px;" src="/images/vs-code.webp" alt="vscode-logo"/>
