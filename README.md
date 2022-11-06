@@ -2,12 +2,14 @@
   <img src="/images/giphy.webp" width="800" height="600"/>
 </div>
 
+<br>
+
 <div>
   <img src="https://img.shields.io/github/followers/jkka777.svg?style=social" alt="follow-counter"/>
   <img src="https://komarev.com/ghpvc/?username=jkka777" alt="profile-views"/>
 </div>
 
-**About Me**
+<br>
 
 Hello there!
 
@@ -27,6 +29,7 @@ I am an aspiring software developer, shaping my career to build robust and user 
 
 ✉️ You can reach me @ abhiram.kishore@gmail.com & +91 9440940244
 
+<h4>Connect with me</h4>
 <div id="badges" style="display:flex;gap:60px">
   <a href="https://www.linkedin.com/in/kishore-j-8986bb235/" target="_blank"/>
     <img height="40px" width="40px" src="/images/linkedin.webp" alt="LinkedIn Badge"/>
@@ -35,6 +38,8 @@ I am an aspiring software developer, shaping my career to build robust and user 
     <img height="40px" width="40px" margin-left="40px" src="/images/twitter.webp" alt="twitter-logo"/>
   </a>
 </div>
+
+<br>
 
 **Want to hear a joke?**
 
@@ -56,11 +61,15 @@ I am an aspiring software developer, shaping my career to build robust and user 
   </div>
 </div>
 
+<br>
+
 <div>
   <h2>Profile Summary</h2>  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkka777&theme=vue" alt="profile-summary"/>
 </div>
-  
+
+<br>
+
 <h2>Skills</h2>
 
 <div>
@@ -71,7 +80,9 @@ I am an aspiring software developer, shaping my career to build robust and user 
     <img style="height:100px;width:100px;margin-left:20px" src="/images/mysql.webp" alt="mysql-logo"/>
     <img style="height:60px;width:200px;margin-left:20px" src="/images/spring.webp" alt="spring-logo"/>
 </div>
-  
+ 
+<br>
+ 
 <h2>Tools</h2>
 
 <div style="display:flex;gap:40px;">
