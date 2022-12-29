@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="/images/giphy.webp" width="800" height="600"/>
-</div>
+</div> -->
 
 <br>
 
