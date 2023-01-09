@@ -50,7 +50,7 @@ I am an aspiring software developer, shaping my career to build robust and user 
   </div>
   <h4>Most Used Languages<h4/>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkka777&layout=compact" alt="most-used-languages" />
+    <img src="https://github-readme-stats-jkka777.vercel.app/api/top-langs/?username=jkka777&layout=compact" alt="most-used-languages" />
   </div>
   <div>
     <h4>Trophies</h4>
