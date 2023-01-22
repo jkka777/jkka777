@@ -2,6 +2,11 @@
   <img src="/images/giphy.webp" width="800" height="600"/>
 </div> -->
 
+
+<h1 align="center">Hi 👋, I'm Kishore J</h1>
+
+<h4 align="center">I am an aspiring software developer, shaping my career to build robust and user friendly applications.</h4>
+
 <br>
 
 <div>
@@ -11,30 +16,23 @@
 
 <br>
 
-Hello there!
+<p></p>
+<p>👨🏽‍💻I am currently learning DSA.</p>
 
-I'm Kishore J,
+<p>🫱🏽‍🫲🏽 Looking for an opprtunity to upskill.</p>
 
-I am an aspiring software developer, shaping my career to build robust and user friendly applications.
+<p>😍I enjoy building things, interested in solving complex problems using my skill and knowledge.</p>
 
-👨🏽‍💻I am currently learning DSA.
+<p>🎾 I like tennis.</p>
 
-🫱🏽‍🫲🏽 Looking for an opprtunity to upskill.
+<p>🎵 I love listening to synthwave!</p>
 
-😍I enjoy building things, interested in solving complex problems using my skill and knowledge.
+<p>✉️ You can reach me @ abhiram.kishore@gmail.com & +91 9440940244</p>
 
-🎾 I like tennis.
-
-🎵 I love listening to synthwave!
-
-✉️ You can reach me @ abhiram.kishore@gmail.com & +91 9440940244
-
-<h4>Connect with me</h4>
-<div id="badges" style="display:flex;gap:60px">
-  <a href="https://www.linkedin.com/in/kishore-j-8986bb235/" target="_blank">
-    <img height="40px" width="40px" src="/images/linkedin.webp" alt="LinkedIn Badge"/>
-  </a>
-</div>
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kishore-j-8986bb235/" target="_blank"><img align="center" src="/images/linkedin.webp" alt="kishore-j linkedin profile" height="40" width="40" /></a>
+</p>
 
 <br>
 
@@ -67,7 +65,21 @@ I am an aspiring software developer, shaping my career to build robust and user 
 
 <br>
 
-<h2>Skills</h2>
+ <h3 align="left">Languages and Tools:</h3>
+  
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="/images/html.webp" alt="html5" width="80" height="50"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="/images/css.webp" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="/images/java.webp" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="/images/javascript.webp" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="/images/mysql.webp" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="/images/spring.webp" alt="spring" width="120" height="40"/> </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="/images/vs-code.webp" alt="vs-code" width="40" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="/images/intellij.webp" alt="intellij" width="40" height="40"/> </a> 
+</p>
+
+<!-- <h2>Skills</h2>
 
 <div>
     <img style="height:60px;width:100px;" src="/images/html.webp" alt="html-logo"/>
@@ -89,3 +101,4 @@ I am an aspiring software developer, shaping my career to build robust and user 
     <img style="height:60px;width:150px;margin-left:20px" src="/images/netlify.webp" alt="netlify-logo"/>
     <img style="height:60px;width:200px;margin-left:20px" src="/images/heroku.webp" alt="heroku-logo"/>
 </div>
+ -->
