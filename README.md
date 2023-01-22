@@ -31,7 +31,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kishore-j-8986bb235/" target="_blank"><img align="center" src="/images/linkedin.webp" alt="kishore-j linkedin profile" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kishore-j-8986bb235/" target="_blank"><img align="center" src="/images/linkedin.webp" alt="kishore-j linkedin profile" height="80" width="120" /></a>
 </p>
 
 <br>
