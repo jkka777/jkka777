@@ -27,7 +27,7 @@
 
 <p>🎵 I love listening to synthwave!</p>
 
-<p>✉️ You can reach me @ abhiram.kishore@gmail.com & +91 9440940244</p>
+✉️ You can reach me @ abhiram.kishore@gmail.com & +91 9440940244
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
