@@ -30,10 +30,16 @@
 ✉️ You can reach me @ abhiram.kishore@gmail.com & +91 9440940244
 
 <h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://www.linkedin.com/in/kishorejeelugula/" target="_blank"><img align="center" src="/images/linkedin.webp" alt="kishore-j linkedin profile" height="80" width="120"/>
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/kishorejeelugula/" target="_blank">
+    <img src="/images/linkedin.webp" width="100" height="80" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+###
 <a href="https://jkka777.github.io/" target="_blank">Portfolio</a>
+###
 <br>
   
 **Want to hear a joke?**
