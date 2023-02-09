@@ -49,7 +49,7 @@
 <div>
   <h2>GitHub Statistics</h2>
   <div style="display:flex;">
-    <img src="https://github-readme-stats-jkka777.vercel.app/api?username=jkka777&theme=graywhite&show_icons=true&hide_border=true" alt="stats"/>
+    <img src="https://github-readme-stats-xi-lemon.vercel.app/api?username=jkka777&theme=graywhite&show_icons=true&hide_border=true" alt="stats"/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=jkka777&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="streak" />
   </div>
   <h4>Most Used Languages<h4/>
