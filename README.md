@@ -54,7 +54,7 @@
   </div>
   <h4>Most Used Languages<h4/>
   <div>
-    <img src="https://github-readme-stats-jkka777.vercel.app/api/top-langs/?username=jkka777&layout=compact%22%20alt=%22most-used-languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkka777" />
   </div>
   <div>
     <h4>Trophies</h4>
